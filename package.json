@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "awssum": "0.12.2",
-    "mocha": "1.8.1"
+    "mocha": "1.8.1",
+    "fmt": "0.4.0"
   }
 }
