@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "awssum": "0.12.2"
+    "awssum": "0.12.2",
+    "mocha": "1.8.1"
   }
 }
