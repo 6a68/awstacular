@@ -1,0 +1,9 @@
+{
+  "name": "awstacular",
+  "description": "hipster hacking on the cloud side.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "awssum": "0.12.2"
+  }
+}
